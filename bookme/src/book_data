@@ -1,0 +1,1418 @@
+{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {"type":"PlainText","text":"Your Car-Fu car is on the way!"},
+    "card": {
+      "type": "Standard",
+      "title": "Ordering a Car",
+      "text": "Your ride is on the way to 123 Main Street!\nEstimated cost for this ride: $25",
+      "image": {
+        "smallImageUrl": "https://carfu.com/resources/card-images/race-car-small.png",
+        "largeImageUrl": "https://carfu.com/resources/card-images/race-car-large.png"
+      }
+    }
+  }
+}
+
+
+
+
+b1
+The Great Gatsby
+by F. Scott Fitzgerald
+published April 10, 1925
+The Great Gatsby, F. Scott Fitzgerald's third book, stands as the supreme achievement of his career. This exemplary novel of the Jazz Age has been acclaimed by generations of readers. The story of the fabulously wealthy Jay Gatsby and his love for the beautiful Daisy Buchanan, of lavish parties on Long Island at a time when The New York Times noted "gin was the national drink and sex the national obsession," it is an exquisitely crafted tale of America in the 1920s.
+
+The Great Gatsby is one of the great classics of twentieth-century literature.
+
+{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {"type":"PlainText","text":"The Great Gatsby by F. Scott Fitzgerald. published April tenth, nineteenth twenty five. stands as the supreme achievement of F. Scott Fitzgerald's career. This exemplary novel of the Jazz Age has been acclaimed by generations of readers. Its the story of the fabulously wealthy Jay Gatsby, his love for the beautiful Daisy Buchanan, and of lavish parties on Long Island at a time when The New York Times noted gin was the national drink and sex the national obsession. it is an exquisitely crafted tale of America in the nineteen twenties."},
+    "card": {
+      "type": "Standard",
+      "title": "The Great Gatsby",
+      "text": "The Great Gatsby \nby F. Scott Fitzgerald Published: April 10, 1925\n This stands as the supreme achievement of F. Scott Fitzgerald's career. This exemplary novel of the Jazz Age has been acclaimed by generations of readers. Its the story of the fabulously wealthy Jay Gatsby, his love for the beautiful Daisy Buchanan, and of lavish parties on Long Island at a time when The New York Times noted gin was the national drink and sex the national obsession. It is an exquisitely crafted tale of America in the nineteen twenties.",
+      "image": {
+        "smallImageUrl": "https://s3.amazonaws.com/alexa-images/books/The-Great-Gatsby_small.jpeg",
+        "largeImageUrl": "https://s3.amazonaws.com/alexa-images/books/The-Great-Gatsby_large.jpeg"
+      }
+    }
+  }
+}
+
+
+
+
+
+
+
+b2
+The Catcher in the Rye
+by J.D. Salinger
+published: July 16, 1951
+a novel about “an individual’s alienation in a heartless world.” Indeed, one of the primary themes that is highlighted throughout Holden Caulfield’s whirlwind narrative of mental breakdown is alienation. Holden seems only to connect with children younger than himself, those who have not yet been scarred or corrupted by the heartless world around them. He increasingly isolates himself by finding fault with others (everyone is a “phony”), getting tossed out of boarding school after school, ruining every chance he has to establish a romantic relationship, and voicing his paranoia and disdain about the world to anyone who will listen. This narrative gives readers a look into the mind of a character whose world is crumbling around him, and his crumbling with it. It also gives voice to the impact and symptoms of mental illness. Holden’s breakdown highlights the importance of getting the necessary help for children who are dealing with grief.
+
+Since his debut in 1951 as The Catcher in the Rye, Holden Caulfield has been synonymous with "cynical adolescent." Holden narrates the story of a couple of days in his sixteen-year-old life, just after he's been expelled from prep school, in a slang that sounds edgy even today and keeps this novel on banned book lists. It begins,
+"If you really want to hear about it, the first thing you'll probably want to know is where I was born and what my lousy childhood was like, and how my parents were occupied and all before they had me, and all that David Copperfield kind of crap, but I don't feel like going into it, if you want to know the truth. In the first place, that stuff bores me, and in the second place, my parents would have about two hemorrhages apiece if I told anything pretty personal about them."
+
+His constant wry observations about what he encounters, from teachers to phonies (the two of course are not mutually exclusive) capture the essence of the eternal teenage experience of alienation. 
+
+{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {"type":"PlainText","text":"The Catcher in the Rye by J.D. Salinger. published July sixteenth, nineteen fifty one. a novel that captures the essence of a teenagers alienation in a heartless world."},
+    "card": {
+      "type": "Standard",
+      "title": "The Catcher in the Rye",
+      "text": "The Catcher in the Rye\nby J.D. Salinger\nPublished July 16, 1951\n A novel about 'an individual’s alienation in a heartless world.' Indeed, one of the primary themes that is highlighted throughout Holden Caulfield’s whirlwind narrative of mental breakdown is alienation. Holden seems only to connect with children younger than himself, those who have not yet been scarred or corrupted by the heartless world around them. He increasingly isolates himself by finding fault with others (everyone is a 'phony'), getting tossed out of boarding school after school, ruining every chance he has to establish a romantic relationship, and voicing his paranoia and disdain about the world to anyone who will listen. This narrative gives readers a look into the mind of a character whose world is crumbling around him, and his crumbling with it. It also gives voice to the impact and symptoms of mental illness. Holden’s breakdown highlights the importance of getting the necessary help for children who are dealing with grief.",
+      "image": {
+        "smallImageUrl": "small_img",
+        "largeImageUrl": "larg_img"
+      }
+    }
+  }
+}
+
+
+
+
+
+b3
+The Grapes of Wrath
+by John Steinbeck
+published: April 14, 1939
+Steinbeck’s Pulitzer Prize-winning epic of the Great Depression chronicles the Dust Bowl migration of the 1930s and tells the story of one Oklahoma farm family, the Joads—driven from their homestead and forced to travel west to the promised land of California. Out of their trials and their repeated collisions against the hard realities of an America divided into Haves and Have-Nots evolves a drama that is intensely human yet majestic in its scale and moral vision, elemental yet plainspoken, tragic but ultimately stirring in its human dignity. A portrait of the conflict between the powerful and the powerless, of one man’s fierce reaction to injustice, and of one woman’s stoical strength, the novel captures the horrors of the Great Depression and probes into the very nature of equality and justice in America. At once a naturalistic epic, captivity narrative, road novel, and transcendental gospel, Steinbeck’s powerful landmark novel is perhaps the most American of American Classics.
+
+{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {"type":"PlainText","text":"The Grapes of Wrath by John Steinbeck. published April fourteenth, nineteen thirty nine. A pulitzer prize-winning epic of the Great Depression which chronicles the Dust Bowl migration of the 1930s and tells the story of one Oklahoma farm family, the Joads—driven from their homestead and forced to travel west to the promised land of California. "},
+    "card": {
+      "type": "Standard",
+      "title": "The Grapes of Wrath",
+      "text": "The Grapes of Wrath\nby John Steinbeck\nPublished April 14, 1939\n A Pulitzer Prize-winning epic of the Great Depression chronicles the Dust Bowl migration of the 1930s and tells the story of one Oklahoma farm family, the Joads—driven from their homestead and forced to travel west to the promised land of California. Out of their trials and their repeated collisions against the hard realities of an America divided into Haves and Have-Nots evolves a drama that is intensely human yet majestic in its scale and moral vision, elemental yet plainspoken, tragic but ultimately stirring in its human dignity. A portrait of the conflict between the powerful and the powerless, of one man’s fierce reaction to injustice, and of one woman’s stoical strength, the novel captures the horrors of the Great Depression and probes into the very nature of equality and justice in America. At once a naturalistic epic, captivity narrative, road novel, and transcendental gospel, Steinbeck’s powerful landmark novel is perhaps the most American of American Classics.",
+      "image": {
+        "smallImageUrl": "small_img",
+        "largeImageUrl": "larg_img"
+      }
+    }
+  }
+}
+
+
+
+
+b4
+To Kill a Mockingbird
+by Harper Lee
+published: July 11, 1960
+Lawyer Atticus Finch defends the real mockingbird of Harper Lee's classic, Puliter Prize-winning novel—a black man charged with the rape of a white woman. Through the eyes of Atticus's children, Scout and Jem Finch, Harper Lee explores with rich humor and unanswering honesty the irrationality of adult attitudes toward race and class in the Deep South of the 1930's.
+
+{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {"type":"PlainText","text":"To Kill a Mockingbird by Harper Lee. published July eleventh, nineteen sixty. This novel explores with rich humor and unanswering honesty the irrationality of adult attitudes toward race and class in the Deep South of the 1930's."},
+    "card": {
+      "type": "Standard",
+      "title": "To Kill a Mockingbird",
+      "text": "To Kill a Mockingbird\nby Harper Lee\nPublished July 11, 1960\n Lawyer Atticus Finch defends the real mockingbird of Harper Lee's classic, Puliter Prize-winning novel—a black man charged with the rape of a white woman. Through the eyes of Atticus's children, Scout and Jem Finch, Harper Lee explores with rich humor and unanswering honesty the irrationality of adult attitudes toward race and class in the Deep South of the 1930's.",
+      "image": {
+        "smallImageUrl": "small_img",
+        "largeImageUrl": "larg_img"
+      }
+    }
+  }
+}
+
+
+
+
+
+
+
+
+b5
+The Color Purple
+by Alice Walker
+published: 1982
+Celie is a poor black woman whose letters tell the story of 20 years of her life, beginning at age 14 when she is being abused and raped by her father and attempting to protect her sister from the same fate, and continuing over the course of her marriage to "Mister," a brutal man who terrorizes her. Celie eventually learns that her abusive husband has been keeping her sister's letters from her and the rage she feels, combined with an example of love and independence provided by her close friend Shug, pushes her finally toward an awakening of her creative and loving self.
+
+{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {"type":"PlainText","text":"The Color Purple by Alice Walker. published nineteen eighty two. Tells the story of a poor black woman whose letters tell the story of twenty years of her life."},
+    "card": {
+      "type": "Standard",
+      "title": "The Color Purple",
+      "text": "The Color Purple\nby Alice Walker\nPublished 1982\n Celie is a poor black woman whose letters tell the story of 20 years of her life, beginning at age 14 when she is being abused and raped by her father and attempting to protect her sister from the same fate, and continuing over the course of her marriage to 'Mister', a brutal man who terrorizes her. Celie eventually learns that her abusive husband has been keeping her sister's letters from her and the rage she feels, combined with an example of love and independence provided by her close friend Shug, pushes her finally toward an awakening of her creative and loving self.",
+      "image": {
+        "smallImageUrl": "small_img",
+        "largeImageUrl": "larg_img"
+      }
+    }
+  }
+}
+
+
+
+
+
+
+
+b6
+Ulysses
+by James Joyce
+published: February 2, 1922
+Ulysses chronicles the peripatetic appointments and encounters of Leopold Bloom in Dublin in the course of an ordinary day, 16 June 1904.
+Ulysses is approximately 265,000 words in length[6] and is divided into eighteen episodes. Since publication, the book has attracted controversy and scrutiny, ranging from early obscenity trials to protracted textual "Joyce Wars". Ulysses' stream-of-consciousness technique, careful structuring, and experimental prose — full of puns, parodies, and allusions — as well as its rich characterisation and broad humour, made the book a highly regarded novel in the modernist pantheon. Joyce fans worldwide now celebrate 16 June as Bloomsday.
+
+
+{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {"type":"PlainText","text":"Ulysses by James Joyce. published february second, nineteen twenty two. Ulysses chronicles the peripatetic appointments and encounters of Leopold Bloom in Dublin in the course of an ordinary day."},
+    "card": {
+      "type": "Standard",
+      "title": "Ulysses",
+      "text": "Ulysses\nby James Joyce\nPublished February 2, 1922\n Ulysses chronicles the peripatetic appointments and encounters of Leopold Bloom in Dublin in the course of an ordinary day, 16 June 1904. Ulysses is approximately 265,000 words in length and is divided into eighteen episodes. Since publication, the book has attracted controversy and scrutiny, ranging from early obscenity trials to protracted textual 'Joyce Wars'. Ulysses' stream-of-consciousness technique, careful structuring, and experimental prose — full of puns, parodies, and allusions — as well as its rich characterisation and broad humour, made the book a highly regarded novel in the modernist pantheon. Joyce fans worldwide now celebrate 16 June as Bloomsday.",
+      "image": {
+        "smallImageUrl": "small_img",
+        "largeImageUrl": "larg_img"
+      }
+    }
+  }
+}
+
+
+
+
+
+b7
+Beloved
+by Toni Morrison
+published: September 1987
+Set after the American Civil War (1861–1865), it is inspired by the story of an African American slave, Margaret Garner, who escaped slavery in Kentucky late January 1856 by fleeing to Ohio, a free state. In the novel, the protagonist Sethe is also a slave who escapes slavery, running to Cincinnati, Ohio. After twenty-eight days of freedom, a posse arrives to retrieve her and her children under the Fugitive Slave Act of 1850, which gave slave owners the right to pursue slaves across state borders. Sethe kills her two-year-old daughter rather than allow her to be recaptured and taken back to Sweet Home, the Kentucky plantation from which Sethe recently fled. A woman presumed to be her daughter, called Beloved, returns years later to haunt Sethe's home at 124 Bluestone Road, Cincinnati, Ohio. The story opens with an introduction to the ghost: "124 was spiteful. Full of a baby's venom."
+
+{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {"type":"PlainText","text":"Beloved by Toni Morrison. published september, nineteen eighty seven. Set after the American Civil War, it is inspired by the story of an African American slave, Margaret Garner, who escaped slavery in Kentucky late January eighteen fifty six by fleeing to Ohio, a free state."},
+    "card": {
+      "type": "Standard",
+      "title": "Beloved",
+      "text": "Beloved\nby Toni Morrison\nPublished September 1987\n Set after the American Civil War (1861–1865), it is inspired by the story of an African American slave, Margaret Garner, who escaped slavery in Kentucky late January 1856 by fleeing to Ohio, a free state. In the novel, the protagonist Sethe is also a slave who escapes slavery, running to Cincinnati, Ohio. After twenty-eight days of freedom, a posse arrives to retrieve her and her children under the Fugitive Slave Act of 1850, which gave slave owners the right to pursue slaves across state borders. Sethe kills her two-year-old daughter rather than allow her to be recaptured and taken back to Sweet Home, the Kentucky plantation from which Sethe recently fled. A woman presumed to be her daughter, called Beloved, returns years later to haunt Sethe's home at 124 Bluestone Road, Cincinnati, Ohio. The story opens with an introduction to the ghost: '124 was spiteful. Full of a baby's venom.'",
+      "image": {
+        "smallImageUrl": "small_img",
+        "largeImageUrl": "larg_img"
+      }
+    }
+  }
+}
+
+
+
+
+
+b8
+The Lord of the Flies
+by William Golding
+published: September 17, 1954
+about a group of British boys stuck on an uninhabited island who try to govern themselves with disastrous results.
+
+{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {"type":"PlainText","text":"The Lord of the Flies by William Golding. published september, seventeenth nineteen fifty four. A story about a group of British boys stuck on an uninhabited island who try to govern themselves with disastrous results."},
+    "card": {
+      "type": "Standard",
+      "title": "The Lord of the Flies",
+      "text": "The Lord of the Flies\nby William Golding\nPublished September 17, 1954\n A story about a group of British boys stuck on an uninhabited island who try to govern themselves with disastrous results.",
+      "image": {
+        "smallImageUrl": "small_img",
+        "largeImageUrl": "larg_img"
+      }
+    }
+  }
+}
+
+
+
+b9
+1984
+by George Orwell
+published: June 8, 1949
+George Orwell’s chilling prophecy about the future. And while 1984 has come and gone, Orwell’s narrative is timelier than ever. 1984 presents a startling and haunting vision of the world, so powerful that it is completely convincing from start to finish. 
+
+{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {"type":"PlainText","text":"1984 by George Orwell. published june eighth, nineteen fourty nine. George Orwell’s chilling prophecy about the future so powerful that it is completely convincing from start to finish."},
+    "card": {
+      "type": "Standard",
+      "title": "1984",
+      "text": "1984\nby George Orwell\nPublished June 8, 1949\n George Orwell’s chilling prophecy about the future. And while 1984 has come and gone, Orwell’s narrative is timelier than ever. 1984 presents a startling and haunting vision of the world, so powerful that it is completely convincing from start to finish.",
+      "image": {
+        "smallImageUrl": "small_img",
+        "largeImageUrl": "larg_img"
+      }
+    }
+  }
+}
+
+
+
+b10
+The Sound and the Fury
+by William Faulkner
+published: 1929
+The novel centers on the Compson family, former Southern aristocrats who are struggling to deal with the dissolution of their family and its reputation. Over the course of the 30 years or so related in the novel, the family falls into financial ruin, loses its religious faith and the respect of the town of Jefferson, and many of them die tragically. 
+
+{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {"type":"PlainText","text":"The Sound and the Fury by William Faulkner. published nineteen twenty nine. The novel centers on the Compson family, former Southern aristocrats who are struggling to deal with the dissolution of their family and its reputation."},
+    "card": {
+      "type": "Standard",
+      "title": "The Sound and the Fury",
+      "text": "The Sound and the Fury\nby William Faulkner\nPublished June 8, 1949\nThe novel centers on the Compson family, former Southern aristocrats who are struggling to deal with the dissolution of their family and its reputation. Over the course of the 30 years or so related in the novel, the family falls into financial ruin, loses its religious faith and the respect of the town of Jefferson, and many of them die tragically.",
+      "image": {
+        "smallImageUrl": "small_img",
+        "largeImageUrl": "larg_img"
+      }
+    }
+  }
+}
+
+
+
+
+
+
+b11
+Lolita
+by Vladmir Nabokov
+published: 1955
+Awe and exhiliration--along with heartbreak and mordant wit--abound in Lolita, Nabokov's most famous and controversial novel, which tells the story of the aging Humbert Humbert's obsessive, devouring, and doomed passion for the nymphet Dolores Haze. Lolita is also the story of a hypercivilized European colliding with the cheerful barbarism of postwar America. Most of all, it is a meditation on love--love as outrage and hallucination, madness and transformation.
+
+{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {"type":"PlainText","text":"Lolita by Vladmir Nabokov. published nineteen fifty five. Awe and exhiliration, along with heartbreak and mordant wit, abound in Lolita. Nabokov's most famous and controversial novel, which tells the story of the aging Humbert Humbert's obsessive, devouring, and doomed passion for the nymphet Dolores Haze."},
+    "card": {
+      "type": "Standard",
+      "title": "Lolita",
+      "text": "Lolita\nby Vladmir Nabokov\nPublished 1955\nAwe and exhiliration--along with heartbreak and mordant wit--abound in Lolita, Nabokov's most famous and controversial novel, which tells the story of the aging Humbert Humbert's obsessive, devouring, and doomed passion for the nymphet Dolores Haze. Lolita is also the story of a hypercivilized European colliding with the cheerful barbarism of postwar America. Most of all, it is a meditation on love--love as outrage and hallucination, madness and transformation.",
+      "image": {
+        "smallImageUrl": "small_img",
+        "largeImageUrl": "larg_img"
+      }
+    }
+  }
+}
+
+
+
+
+
+
+
+b12
+Of Mice and Men
+by John Steinbeck
+published: 1937
+it tells the story of George Milton and Lennie Small, two displaced migrant ranch workers, who move from place to place in California in search of new job opportunities during the Great Depression in the United States.
+
+{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {"type":"PlainText","text":"Of Mice and Men by John Steinbeck. published nineteen thirty seven, tells the story of George Milton and Lennie Small, two displaced migrant ranch workers, who move from place to place in California in search of new job opportunities during the Great Depression in the United States."},
+    "card": {
+      "type": "Standard",
+      "title": "Of Mice and Men",
+      "text": "Of Mice and Men\nby John Steinbeck\nPublished June 8, 1949\nThe story of George Milton and Lennie Small, two displaced migrant ranch workers, who move from place to place in California in search of new job opportunities during the Great Depression in the United States.",
+      "image": {
+        "smallImageUrl": "small_img",
+        "largeImageUrl": "larg_img"
+      }
+    }
+  }
+}
+
+
+
+
+
+
+
+
+b13
+Charlotte’s Web
+by E.B. White
+published: 1952
+The novel tells the story of a pig named Wilbur and his friendship with a barn spider named Charlotte. When Wilbur is in danger of being slaughtered by the farmer, Charlotte writes messages praising Wilbur (such as "Some Pig") in her web in order to persuade the farmer to let him live.
+
+{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {"type":"PlainText","text":"Charlotte’s Web by E.B. White. published nineteen fifty two. The novel tells the story of a pig named Wilbur and his friendship with a barn spider named Charlotte. When Wilbur is in danger of being slaughtered by the farmer, Charlotte writes messages praising Wilbur in her web in order to persuade the farmer to let him live."},
+    "card": {
+      "type": "Standard",
+      "title": "Charlotte’s Web",
+      "text": "Charlotte’s Web\nby E.B. White\nPublished 1952\nThe novel tells the story of a pig named Wilbur and his friendship with a barn spider named Charlotte. When Wilbur is in danger of being slaughtered by the farmer, Charlotte writes messages praising Wilbur (such as 'Some Pig') in her web in order to persuade the farmer to let him live.",
+      "image": {
+        "smallImageUrl": "small_img",
+        "largeImageUrl": "larg_img"
+      }
+    }
+  }
+}
+
+
+
+
+
+b14
+A Portrait of the Artist as a Young Man
+by James Joyce
+published: December 29, 1916
+it traces the religious and intellectual awakening of young Stephen Dedalus, a fictional alter ego of Joyce and an allusion to Daedalus, the consummate craftsman of Greek mythology. Stephen questions and rebels against the Catholic and Irish conventions under which he has grown, culminating in his self-exile from Ireland to Europe.
+
+{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {"type":"PlainText","text":"A Portrait of the Artist as a Young Man by James Joyce. published december twenty nineth, nineteen sixteen. This novel traces the religious and intellectual awakening of young Stephen Dedalus, a fictional alter ego of Joyce and an allusion to Daedalus, the consummate craftsman of Greek mythology. Stephen questions and rebels against the Catholic and Irish conventions under which he has grown, culminating in his self-exile from Ireland to Europe."},
+    "card": {
+      "type": "Standard",
+      "title": "A Portrait of the Artist as a Young Man",
+      "text": "A Portrait of the Artist as a Young Man\nby James Joyce\nPublished December 29, 1916\nThis novel traces the religious and intellectual awakening of young Stephen Dedalus, a fictional alter ego of Joyce and an allusion to Daedalus, the consummate craftsman of Greek mythology. Stephen questions and rebels against the Catholic and Irish conventions under which he has grown, culminating in his self-exile from Ireland to Europe.",
+      "image": {
+        "smallImageUrl": "small_img",
+        "largeImageUrl": "larg_img"
+      }
+    }
+  }
+}
+
+
+
+
+b15
+Catch-22
+by Joseph Heller
+published: November 10, 1961
+The novel is set during World War II, from 1942 to 1944. It mainly follows the life of Captain John Yossarian, a U.S. Army Air Forces B-25 bombardier. Most of the events in the book occur while the fictional 256th Squadron is based on the island of Pianosa, in the Mediterranean Sea, west of Italy. The novel looks into the experiences of Yossarian and the other airmen in the camp, who attempt to maintain their sanity while fulfilling their service requirements so that they may return home.
+
+{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {"type":"PlainText","text":"Catch twenty two by Joseph Heller. published november tenth, nineteen sixty one. The novel is set during World War two, between nineteen forty two and nineteen forty four. It mainly follows the life of Captain John Yossarian, a U.S. Army Air Forces B twenty five bombardier."},
+    "card": {
+      "type": "Standard",
+      "title": "Catch-22",
+      "text": "Catch-22\nby Joseph Heller\nPublished November 10, 1961\n The novel is set during World War II, from 1942 to 1944. It mainly follows the life of Captain John Yossarian, a U.S. Army Air Forces B-25 bombardier. Most of the events in the book occur while the fictional 256th Squadron is based on the island of Pianosa, in the Mediterranean Sea, west of Italy. The novel looks into the experiences of Yossarian and the other airmen in the camp, who attempt to maintain their sanity while fulfilling their service requirements so that they may return home.",
+      "image": {
+        "smallImageUrl": "small_img",
+        "largeImageUrl": "larg_img"
+      }
+    }
+  }
+}
+
+
+
+
+b16
+Brave New World
+by Aldous Huxley
+published: 1932
+Set in London in the year AD 2540 (632 A.F.—"After Ford"—in the book), the novel anticipates developments in reproductive technology, sleep-learning, psychological manipulation, and classical conditioning that combine profoundly to change society.
+
+{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {"type":"PlainText","text":"Brave New World by Aldous Huxley. published nineteen thirty two. Set in London in the year A.D. twenty five fourty, the novel anticipates developments in reproductive technology, sleep-learning, psychological manipulation, and classical conditioning that combine profoundly to change society."},
+    "card": {
+      "type": "Standard",
+      "title": "Brave New World",
+      "text": "Brave New World\nby Aldous Huxley\nPublished 1932\nSet in London in the year AD 2540 (632 A.F.—"After Ford"—in the book), the novel anticipates developments in reproductive technology, sleep-learning, psychological manipulation, and classical conditioning that combine profoundly to change society. ",
+      "image": {
+        "smallImageUrl": "small_img",
+        "largeImageUrl": "larg_img"
+      }
+    }
+  }
+}
+
+
+
+
+
+b17
+Animal Farm
+by George Orwell
+published: August 17, 1945
+Animal Farm is the most famous by far of all twentieth-century political allegories. Its account of a group of barnyard animals who revolt against their vicious human master, only to submit to a tyranny erected by their own kind, can fairly be said to have become a universal drama. Orwell is one of the very few modern satirists comparable to Jonathan Swift in power, artistry, and moral authority; in animal farm his spare prose and the logic of his dark comedy brilliantly highlight his stark message.
+
+{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {"type":"PlainText","text":"Animal Farm by George Orwell. published august seventeenth, nineteen fourty five. Animal Farm is the most famous by far of all twentieth-century political allegories. Its account of a group of barnyard animals who revolt against their vicious human master, only to submit to a tyranny erected by their own kind, can fairly be said to have become a universal drama."},
+    "card": {
+      "type": "Standard",
+      "title": "Animal Farm",
+      "text": "Animal Farm\nby George Orwell\nPublished August 17, 1945\n Animal Farm is the most famous by far of all twentieth-century political allegories. Its account of a group of barnyard animals who revolt against their vicious human master, only to submit to a tyranny erected by their own kind, can fairly be said to have become a universal drama. Orwell is one of the very few modern satirists comparable to Jonathan Swift in power, artistry, and moral authority; in animal farm his spare prose and the logic of his dark comedy brilliantly highlight his stark message.",
+      "image": {
+        "smallImageUrl": "small_img",
+        "largeImageUrl": "larg_img"
+      }
+    }
+  }
+}
+
+
+b18
+The Sun Also Rises
+by Ernest Hemingway
+October 22, 1926
+A poignant look at the disillusionment and angst of the post-World War I generation, the novel introduces two of Hemingway's most unforgettable characters: Jake Barnes and Lady Brett Ashley. The story follows the flamboyant Brett and the hapless Jake as they journey from the wild nightlife of 1920s Paris to the brutal bullfighting rings of Spain with a motley group of expatriates. It is an age of moral bankruptcy, spiritual dissolution, unrealized love, and vanishing illusions.
+
+{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {"type":"PlainText","text":"The Sun Also Rises by Ernest Hemingway. published october twenty second, nineteen twenty six. A poignant look at the disillusionment and angst of the post-World War one generation, the novel introduces two of Hemingway's most unforgettable characters, Jake Barnes and Lady Brett Ashley. The story follows the flamboyant Brett and the hapless Jake as they journey from the wild nightlife of nineteenth twenties Paris to the brutal bullfighting rings of Spain with a motley group of expatriates."},
+    "card": {
+      "type": "Standard",
+      "title": "The Sun Also Rises",
+      "text": "The Sun Also Rises\nby Ernest Hemingway\nPublished October 22, 1926\nA poignant look at the disillusionment and angst of the post-World War I generation, the novel introduces two of Hemingway's most unforgettable characters: Jake Barnes and Lady Brett Ashley. The story follows the flamboyant Brett and the hapless Jake as they journey from the wild nightlife of 1920s Paris to the brutal bullfighting rings of Spain with a motley group of expatriates. It is an age of moral bankruptcy, spiritual dissolution, unrealized love, and vanishing illusions.",
+      "image": {
+        "smallImageUrl": "small_img",
+        "largeImageUrl": "larg_img"
+      }
+    }
+  }
+}
+
+
+
+
+b19
+As I Lay Dying
+by William Faulkner
+published: 1930
+harrowing account of the Bundren family’s odyssey across the Mississippi countryside to bury Addie, their wife and mother. Narrated in turn  by each of the family members—including Addie herself—as well as others the novel ranges in mood, from dark comedy to the deepest pathos. Considered one of the most influential novels in American fiction in structure, style, and drama
+
+{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {"type":"PlainText","text":"As I Lay Dying by William Faulkner. published nineteen thirty. This novel tells a harrowing account of the Bundren family’s odyssey across the Mississippi countryside to bury Addie, their wife and mother. Considered one of the most influential novels in American fiction in structure, style, and drama."},
+    "card": {
+      "type": "Standard",
+      "title": "As I Lay Dying",
+      "text": "As I Lay Dying\nby William Faulkner\nPublished 1930\n This novel tells a harrowing account of the Bundren family’s odyssey across the Mississippi countryside to bury Addie, their wife and mother. Narrated in turn  by each of the family members—including Addie herself—as well as others the novel ranges in mood, from dark comedy to the deepest pathos. Considered one of the most influential novels in American fiction in structure, style, and drama.",
+      "image": {
+        "smallImageUrl": "small_img",
+        "largeImageUrl": "larg_img"
+      }
+    }
+  }
+}
+
+
+
+
+b20
+A Farewell to Arms
+by Ernest Hemingway
+In 1918 Ernest Hemingway went to war, to the war to end all wars. He volunteered for ambulance service in Italy, was wounded, and twice decorated. Out of his experiences came A Farewell to Arms. Hemingway's description of war is unforgettable. He recreates the fear, the comradeship, the courage of his young American volunteer, and the men and women he meets in Italy with total conviction. But A Farewell to Arms is not only a novel of war. In it, Hemingway has also created a love story of immense drama and uncompromising passion.
+
+{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {"type":"PlainText","text":"A Farewell to Arms by Ernest Hemingway. published nineteen eighteen. In nineteen eighteen, Ernest Hemingway went to war, to the war to end all wars. He volunteered for ambulance service in Italy, was wounded, and twice decorated. Out of his experiences came A Farewell to Arms. Hemingway's description of war is unforgettable. He recreates the fear, the comradeship, the courage of his young American volunteer, and the men and women he meets in Italy with total conviction. But A Farewell to Arms is not only a novel of war. In it, Hemingway has also created a love story of immense drama and uncompromising passion."},
+"},
+    "card": {
+      "type": "Standard",
+      "title": "A Farewell to Arms",
+      "text": "A Farewell to Arms\nby Ernest Hemingway\nPublished date\n In 1918 Ernest Hemingway went to war, to the war to end all wars. He volunteered for ambulance service in Italy, was wounded, and twice decorated. Out of his experiences came A Farewell to Arms. Hemingway's description of war is unforgettable. He recreates the fear, the comradeship, the courage of his young American volunteer, and the men and women he meets in Italy with total conviction. But A Farewell to Arms is not only a novel of war. In it, Hemingway has also created a love story of immense drama and uncompromising passion.",
+      "image": {
+        "smallImageUrl": "small_img",
+        "largeImageUrl": "larg_img"
+      }
+    }
+  }
+}
+
+
+
+
+b21
+Heart of Darkness
+by Joseph Conrad
+published: 1899
+about a voyage up the Congo River into the Congo Free State, in the heart of Africa, by the story's narrator Marlow.[1] Marlow tells his story to friends aboard a boat anchored on the River Thames, London, England. This setting provides the frame for Marlow's story of his obsession with the ivory trader Kurtz, which enables Conrad to create a parallel between London and Africa as places of darkness.[2]
+
+Central to Conrad's work is the idea that there is little difference between so-called civilised people and those described as savages; Heart of Darkness raises questions about imperialism and racism.[3]
+
+//{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {"type":"PlainText","text":"title by author. published nineteen date. This novel tells."},
+    "card": {
+      "type": "Standard",
+      "title": "title",
+      "text": "title\nby author\nPublished date\n This novel tells.",
+      "image": {
+        "smallImageUrl": "small_img",
+        "largeImageUrl": "larg_img"
+      }
+    }
+  }
+}
+
+
+
+
+b22
+Winnie-the-Pooh
+by A.A. Milne
+published: October 14, 1926
+Since 1926, Winnie-the-Pooh and his friends—Piglet, Owl, Tigger, and the ever doleful Eeyore—have endured as the unforgettable creations of A.A. Milne, who wrote this book for his son, Christopher Robin, and Ernest H. Shepard, who lovingly gave Pooh and his companions shape. 
+These characters and their stories are timeless treasures of childhood that continue to speak to all of us with the kind of freshness and heart that distinguishes true storytelling.
+
+//{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {"type":"PlainText","text":"title by author. published nineteen date. This novel tells."},
+    "card": {
+      "type": "Standard",
+      "title": "title",
+      "text": "title\nby author\nPublished date\n This novel tells.",
+      "image": {
+        "smallImageUrl": "small_img",
+        "largeImageUrl": "larg_img"
+      }
+    }
+  }
+}
+
+
+
+
+b23
+Their Eyes Were Watching God
+by Zora Neale Hurston
+published: September 18, 1937
+The novel narrates main character Janie Crawford's "ripening from a vibrant, but voiceless, teenage girl into a woman with her finger on the trigger of her own destiny."[1] Set in central and southern Florida in the early 20th century, the novel was initially poorly received for its rejection of racial uplift literary prescriptions. 
+//{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {"type":"PlainText","text":"title by author. published nineteen date. This novel tells."},
+    "card": {
+      "type": "Standard",
+      "title": "title",
+      "text": "title\nby author\nPublished date\n This novel tells.",
+      "image": {
+        "smallImageUrl": "small_img",
+        "largeImageUrl": "larg_img"
+      }
+    }
+  }
+}
+
+
+
+b24
+Invisible Man
+by Ralph Ellison
+published: 1952
+a novel about an African American man whose color renders him invisible, published by Random House in 1952. It addresses many of the social and intellectual issues facing African-Americans early in the twentieth century, including black nationalism, the relationship between black identity and Marxism, and the reformist racial policies of Booker T. Washington, as well as issues of individuality and personal identity.
+
+//{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {"type":"PlainText","text":"title by author. published nineteen date. This novel tells."},
+    "card": {
+      "type": "Standard",
+      "title": "title",
+      "text": "title\nby author\nPublished date\n This novel tells.",
+      "image": {
+        "smallImageUrl": "small_img",
+        "largeImageUrl": "larg_img"
+      }
+    }
+  }
+}
+
+
+b25
+Song of Solomon
+by Toni Morrison
+published: 1977
+Milkman Dead was born shortly after a neighborhood eccentric hurled himself off a rooftop in a vain attempt at flight. For the rest of his life he, too, will be trying to fly. With this brilliantly imagined novel, Toni Morrison transfigures the coming-of-age story as audaciously as Saul Bellow or Gabriel García Márquez. As she follows Milkman from his rustbelt city to the place of his family’s origins, Morrison introduces an entire cast of strivers and seeresses, liars and assassins, the inhabitants of a fully realized black world.
+
+//{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {"type":"PlainText","text":"title by author. published nineteen date. This novel tells."},
+    "card": {
+      "type": "Standard",
+      "title": "title",
+      "text": "title\nby author\nPublished date\n This novel tells.",
+      "image": {
+        "smallImageUrl": "small_img",
+        "largeImageUrl": "larg_img"
+      }
+    }
+  }
+}
+
+
+b26
+Gone with the Wind
+by Margaret Mitchell
+published: June 30, 1936
+The story is set in Clayton County and Atlanta, both in Georgia, during the American Civil War and Reconstruction Era. It depicts the struggles of young Scarlett O'Hara, the spoiled daughter of a well-to-do plantation owner, who must use every means at her disposal to claw her way out of poverty following the destructive Sherman's March to the Sea. This historical novel features a Bildungsroman or coming-of-age story, with the title taken from a poem written by Ernest Dowson.
+
+//{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {"type":"PlainText","text":"title by author. published nineteen date. This novel tells."},
+    "card": {
+      "type": "Standard",
+      "title": "title",
+      "text": "title\nby author\nPublished date\n This novel tells.",
+      "image": {
+        "smallImageUrl": "small_img",
+        "largeImageUrl": "larg_img"
+      }
+    }
+  }
+}
+
+
+b27
+Native Son
+by Richard Wright
+published: March 1, 1940
+The novel tells the story of 20-year-old Bigger Thomas, an African-American youth living in utter poverty in a poor area on Chicago's South Side in the 1930s.
+While not apologizing for Bigger's crimes, Wright portrays a systemic inevitability behind them. Bigger's lawyer makes the case that there is no escape from this destiny for his client or any other black American since they are the necessary product of the society that formed them and told them since birth who exactly they were supposed to be.
+
+//{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {"type":"PlainText","text":"title by author. published nineteen date. This novel tells."},
+    "card": {
+      "type": "Standard",
+      "title": "title",
+      "text": "title\nby author\nPublished date\n This novel tells.",
+      "image": {
+        "smallImageUrl": "small_img",
+        "largeImageUrl": "larg_img"
+      }
+    }
+  }
+}
+
+
+b28
+One Flew Over the Cuckoo’s Nest
+by Ken Kesey
+published: 1962
+Set in an Oregon psychiatric hospital, the narrative serves as a study of the institutional processes and the human mind as well as a critique of behaviorism and a celebration of humanistic principles.
+
+//{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {"type":"PlainText","text":"title by author. published nineteen date. This novel tells."},
+    "card": {
+      "type": "Standard",
+      "title": "title",
+      "text": "title\nby author\nPublished date\n This novel tells.",
+      "image": {
+        "smallImageUrl": "small_img",
+        "largeImageUrl": "larg_img"
+      }
+    }
+  }
+}
+
+
+b29
+Slaughterhouse-Five
+by Kurt Vonnegut
+published: March 1969
+a satirical novel by Kurt Vonnegut about World War II experiences and journeys through time of Billy Pilgrim, from his time as an American soldier and chaplain's assistant, to postwar and early years. It is generally recognized as Vonnegut's most influential and popular work.[1] A central event is Pilgrim's surviving the Allies' firebombing of Dresden as a prisoner-of-war. This was an event in Vonnegut's own life, and the novel is considered semi-autobiographical.
+
+//{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {"type":"PlainText","text":"title by author. published nineteen date. This novel tells."},
+    "card": {
+      "type": "Standard",
+      "title": "title",
+      "text": "title\nby author\nPublished date\n This novel tells.",
+      "image": {
+        "smallImageUrl": "small_img",
+        "largeImageUrl": "larg_img"
+      }
+    }
+  }
+}
+
+
+b30
+For Whom the Bell Tolls
+by Ernest Hemingway
+published: October 21, 1940
+It tells the story of Robert Jordan, a young American in the International Brigades attached to a republican guerrilla unit during the Spanish Civil War. As a dynamiter, he is assigned to blow up a bridge during an attack on the city of Segovia. The novel is regarded as one of Hemingway's best works
+
+//{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {"type":"PlainText","text":"title by author. published nineteen date. This novel tells."},
+    "card": {
+      "type": "Standard",
+      "title": "title",
+      "text": "title\nby author\nPublished date\n This novel tells.",
+      "image": {
+        "smallImageUrl": "small_img",
+        "largeImageUrl": "larg_img"
+      }
+    }
+  }
+}
+
+
+b31
+On the Road
+by Jack Kerouac
+published: September 5, 1957
+based on the travels of Kerouac and his friends across America. It is considered a defining work of the postwar Beat and Counterculture generations, with its protagonists living life against a backdrop of jazz, poetry, and drug use. 
+
+//{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {"type":"PlainText","text":"title by author. published nineteen date. This novel tells."},
+    "card": {
+      "type": "Standard",
+      "title": "title",
+      "text": "title\nby author\nPublished date\n This novel tells.",
+      "image": {
+        "smallImageUrl": "small_img",
+        "largeImageUrl": "larg_img"
+      }
+    }
+  }
+}
+
+
+b32
+The Old Man and the Sea
+by Ernest Hemingway
+published: 1952
+This was the last major work of fiction by Hemingway that was published during his lifetime. One of his most famous works, it tells the story of Santiago, an aging Cuban fisherman who struggles with a giant marlin far out in the Gulf Stream off the coast of Florida.
+
+//{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {"type":"PlainText","text":"title by author. published nineteen date. This novel tells."},
+    "card": {
+      "type": "Standard",
+      "title": "title",
+      "text": "title\nby author\nPublished date\n This novel tells.",
+      "image": {
+        "smallImageUrl": "small_img",
+        "largeImageUrl": "larg_img"
+      }
+    }
+  }
+}
+
+
+b33
+The Call of the Wild
+by Jack London
+published: 1903
+set in Yukon, Canada during the 1890s Klondike Gold Rush, when strong sled dogs were in high demand. The central character of the novel is a dog named Buck. The story opens at a ranch in Santa Clara Valley, California, when Buck is stolen from his home and sold into service as a sled dog in Alaska. He becomes progressively feral in the harsh environment, where he is forced to fight to survive and dominate other dogs. By the end, he sheds the veneer of civilization, and relies on primordial instinct and learned experience to emerge as a leader in the wild.
+
+//{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {"type":"PlainText","text":"title by author. published nineteen date. This novel tells."},
+    "card": {
+      "type": "Standard",
+      "title": "title",
+      "text": "title\nby author\nPublished date\n This novel tells.",
+      "image": {
+        "smallImageUrl": "small_img",
+        "largeImageUrl": "larg_img"
+      }
+    }
+  }
+}
+
+
+b34
+To the Lighthouse
+by Virginia Woolf
+published: May 5, 1927
+a novel whose overt simplicity of plot hides a complex mix of autobiographical detail, searching social questions and deep philosophical enigmas. The author's innovative use of nonlinear plot, stream- of-consciousness, and varying narrators, transforms the apparently 'normal' incidents in the life of the Ramsay family into a mythic reflection on time, gender, morality, and death. Woolf considered 'To the Lighthouse' to be "easily the best of my books", a judgment with which serious students of literature can only concur.
+
+//{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {"type":"PlainText","text":"title by author. published nineteen date. This novel tells."},
+    "card": {
+      "type": "Standard",
+      "title": "title",
+      "text": "title\nby author\nPublished date\n This novel tells.",
+      "image": {
+        "smallImageUrl": "small_img",
+        "largeImageUrl": "larg_img"
+      }
+    }
+  }
+}
+
+
+b35
+Portrait of a Lady
+by Henry James
+published: 1881
+story of a spirited young American woman, Isabel Archer, who in "affronting her destiny",[1] finds it overwhelming. She inherits a large amount of money and subsequently becomes the victim of Machiavellian scheming by two American expatriates. Like many of James's novels, it is set in Europe, mostly England and Italy. Generally regarded as the masterpiece of James's early period,[2] this novel reflects James's continuing interest in the differences between the New World and the Old, often to the detriment of the former. It also treats in a profound way the themes of personal freedom, responsibility, and betrayal.
+
+//{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {"type":"PlainText","text":"title by author. published nineteen date. This novel tells."},
+    "card": {
+      "type": "Standard",
+      "title": "title",
+      "text": "title\nby author\nPublished date\n This novel tells.",
+      "image": {
+        "smallImageUrl": "small_img",
+        "largeImageUrl": "larg_img"
+      }
+    }
+  }
+}
+
+
+b36
+Go Tell it on the Mountain
+by James Baldwin
+published: 1953
+story of John Grimes, an intelligent teenager in 1930's Harlem, and his relationship to his family and his church. The novel also reveals the back stories of John's mother, his biological father, and his violent, religious fanatic step-father, Gabriel Grimes. The novel focuses on the role of the Pentecostal Church in the lives of African-Americans, as a negative source of repression and moral hypocrisy and also as a positive source of inspiration and community. 
+
+//{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {"type":"PlainText","text":"title by author. published nineteen date. This novel tells."},
+    "card": {
+      "type": "Standard",
+      "title": "title",
+      "text": "title\nby author\nPublished date\n This novel tells.",
+      "image": {
+        "smallImageUrl": "small_img",
+        "largeImageUrl": "larg_img"
+      }
+    }
+  }
+}
+
+
+b37
+The World According to Garp
+by John Irving
+published: 1978
+a literary Künstlerroman about a man born out of wedlock to a feminist leader who grows up to be a writer. 
+
+//{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {"type":"PlainText","text":"title by author. published nineteen date. This novel tells."},
+    "card": {
+      "type": "Standard",
+      "title": "title",
+      "text": "title\nby author\nPublished date\n This novel tells.",
+      "image": {
+        "smallImageUrl": "small_img",
+        "largeImageUrl": "larg_img"
+      }
+    }
+  }
+}
+
+
+b38
+All the King’s Men
+by Robert Penn Warren
+published: 1946
+All the King's Men portrays the dramatic political rise and governorship of Willie Stark, a cynical populist in the American South during the 1930s. The novel is narrated by Jack Burden, a political reporter who comes to work as Governor Stark's right-hand man. The trajectory of Stark's career is interwoven with Jack Burden's life story and philosophical reflections: "the story of Willie Stark and the story of Jack Burden are, in one sense, one story."
+
+//{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {"type":"PlainText","text":"title by author. published nineteen date. This novel tells."},
+    "card": {
+      "type": "Standard",
+      "title": "title",
+      "text": "title\nby author\nPublished date\n This novel tells.",
+      "image": {
+        "smallImageUrl": "small_img",
+        "largeImageUrl": "larg_img"
+      }
+    }
+  }
+}
+
+
+b39
+A Room with a View
+by E.M. Forster
+published: 1908
+about a young woman in the restrained culture of Edwardian era England. Set in Italy and England, the story is both a romance and a critique of English society at the beginning of the 20th century.
+
+//{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {"type":"PlainText","text":"title by author. published nineteen date. This novel tells."},
+    "card": {
+      "type": "Standard",
+      "title": "title",
+      "text": "title\nby author\nPublished date\n This novel tells.",
+      "image": {
+        "smallImageUrl": "small_img",
+        "largeImageUrl": "larg_img"
+      }
+    }
+  }
+}
+
+
+b40
+The Lord of the Rings
+by J.R.R. Tolkien
+published: 1955
+The story began as a sequel to Tolkien's 1937 fantasy novel The Hobbit, but eventually developed into a much larger work. Written in stages between 1937 and 1949, The Lord of the Rings is one of the best-selling novels ever written, with over 150 million copies sold.[1]
+
+The title of the novel refers to the story's main antagonist, the Dark Lord Sauron,[note 1] who had in an earlier age created the One Ring to rule the other Rings of Power as the ultimate weapon in his campaign to conquer and rule all of Middle-earth. From quiet beginnings in the Shire, a hobbit land not unlike the English countryside, the story ranges across Middle-earth, following the course of the War of the Ring through the eyes of its characters, not only the hobbits Frodo Baggins, Samwise "Sam" Gamgee, Meriadoc "Merry" Brandybuck and Peregrin "Pippin" Took, but also the hobbits' chief allies and travelling companions: the Men Aragorn son of Arathorn, a Ranger of the North, and Boromir, a Captain of Gondor; Gimli son of Glóin, a Dwarf warrior; Legolas Greenleaf, an Elven prince; and Gandalf, a Wizard.
+
+//{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {"type":"PlainText","text":"title by author. published nineteen date. This novel tells."},
+    "card": {
+      "type": "Standard",
+      "title": "title",
+      "text": "title\nby author\nPublished date\n This novel tells.",
+      "image": {
+        "smallImageUrl": "small_img",
+        "largeImageUrl": "larg_img"
+      }
+    }
+  }
+}
+
+
+b41
+Schindler’s List
+by Thomas Keneally
+published: October 18, 1982
+The book Schindler's Ark (released in America as Schindler's List) , based on a true story, tells the story of Oskar Schindler, a Nazi Party member who turns into an unlikely hero by saving 1,200 Jews from concentration camps all over Poland and Germany. It is a work of non-fiction which describes actual people, places and events with reconstructed dialogue where exact details are unknown.[2] Although the work is often referred to as historical fiction, this is an invalid description of a book in which the author asserts its contents to be factual, and the usage of dramatic techniques does not alone determine the factual status of a given book.
+
+b42
+The Age of Innocence
+by Edith Wharton
+published: 1920
+a  masterful portrait of desire and betrayal during the sumptuous Golden Age of Old New York, a time when society people “dreaded scandal more than disease.”
+
+This is Newland Archer’s world as he prepares to marry the beautiful but conventional May Welland. But when the mysterious Countess Ellen Olenska returns to New York after a disastrous marriage, Archer falls deeply in love with her. Torn between duty and passion, Archer struggles to make a decision that will either courageously define his life—or mercilessly destroy it.
+
+b43
+The Fountainhead
+by Ayn Rand
+published: April 15, 1943
+The Fountainhead's protagonist, Howard Roark, is an individualistic young architect who refuses to compromise his artistic and personal vision for worldly recognition and success. The book follows his battle to practice what the public sees as modern architecture, which he believes to be superior, despite an establishment centered on tradition-worship. How others in the novel relate to Roark demonstrates Rand's various archetypes of human character, all of which are variants between Roark, the author's ideal man of independence and integrity, and what she described as the "second-handers". The complex relationships between Roark and the various kinds of individuals who assist or hinder his progress, or both, allow the novel to be at once a romantic drama and a philosophical work. Roark is Rand's embodiment of what she believes to be the ideal man, and his struggle reflects Rand's personal belief that individualism trumps collectivism.
+
+b44
+Finnegans Wake
+by James Joyc
+published: May 4, 1939
+The book discusses, in an unorthodox fashion, the Earwicker family, comprising the father HCE, the mother ALP, and their three children Shem the Penman, Shaun the Postman, and Issy. Following an unspecified rumour about HCE, the book, in a nonlinear dream narrative,[8] follows his wife's attempts to exonerate him with a letter, his sons' struggle to replace him, Shaun's rise to prominence, and a final monologue by ALP at the break of dawn. The opening line of the book is a sentence fragment which continues from the book's unfinished closing line, making the work a never-ending cycle.
+
+b45
+The Jungle
+by Upton Sinclair
+published: February 26, 1906
+Sinclair wrote the novel to portray the harsh conditions and exploited lives of immigrants in the United States in Chicago and similar industrialized cities.[2] However, most readers were more concerned with his exposure of health violations and unsanitary practices in the American meatpacking industry during the early 20th century, greatly contributing to a public outcry which led to reforms including the Meat Inspection Act. Sinclair famously said of the public reaction "I aimed at the public's heart, and by accident I hit it in the stomach."
+
+b46
+Mrs. Dalloway
+by Virginia Woolf
+published: May 14, 1925
+Created from two short stories, "Mrs Dalloway in Bond Street" and the unfinished "The Prime Minister," the novel addresses Clarissa's preparations for a party she will host that evening. With an interior perspective, the story travels forwards and back in time and in and out of the characters' minds to construct an image of Clarissa's life and of the inter-war social structure.
+
+b47
+The Wonderful Wizard of Oz
+by L. Frank Baum
+published: May 17, 1900
+The story chronicles the adventures of a young farm girl named Dorothy in the magical Land of Oz, after she and her pet dog Toto are swept away from their Kansas home by a cyclone.[nb 1] The novel is one of the best-known stories in American literature and has been widely translated. The Library of Congress has declared it "America's greatest and best-loved homegrown fairytale".
+
+b48
+Lady Chatterley’s Lover
+by D.H. Lawrence
+published: 1928
+An unexpurgated edition was not published openly in the United Kingdom until 1960, when it was the subject of a watershed obscenity trial against the publisher Penguin Books. Penguin won the case, and quickly sold 3 million copies.v The book soon became notorious for its story of the physical (and emotional) relationship between a working class man and an upper class woman, its explicit descriptions of sex, and its use of then-unprintable words.
+
+b49
+A Clockwork Orange
+by Anthony Burgess
+published: 1963
+A vicious fifteen-year-old droog is the central character of this 1963 classic. In Anthony Burgess's nightmare vision of the future, where the criminals take over after dark, the story is told by the central character, Alex, who talks in a brutal invented slang that brilliantly renders his and his friends' social pathology. A Clockwork Orange is a frightening fable about good and evil, and the meaning of human freedom. When the state undertakes to reform Alex to "redeem" him, the novel asks, "At what cost?"
+
+b50
+The Awakening
+by Kate Chopin
+published: 1899
+Set in New Orleans and on the Louisiana Gulf coast at the end of the 19th century, the plot centers on Edna Pontellier and her struggle between her increasingly unorthodox views on femininity and motherhood with the prevailing social attitudes of the turn-of-the-century American South. It is one of the earliest American novels that focuses on women's issues without condescension. It is also widely seen as a landmark work of early feminism, generating a mixed reaction from contemporary readers and critics.
+
+b51
+My Antonia
+by Willa Cather
+published: 1918
+The novel tells the stories of an orphaned boy from Virginia, Jim Burden, and the elder daughter in a family of Bohemian immigrants, Ántonia Shimerda, who are each brought as children to be pioneers in Nebraska towards the end of the 19th century. Both the pioneers who first break the prairie sod for farming, as well as of the harsh but fertile land itself, feature in this American novel. The first year in the very new place leaves strong impressions in both children, affecting them lifelong.
+
+b52
+Howards End
+by E.M. Forster
+published: 1910
+The story revolves around three families in England at the beginning of the 20th century: the Wilcoxes, rich capitalists with a fortune made in the Colonies; the half-German Schlegel siblings (Margaret, Tibby, and Helen), whose cultural pursuits have much in common with the real-life Bloomsbury Group; and the Basts, an impoverished young couple from a lower-middle-class background. The idealistically motivated, well read, highly intelligent Schlegel sisters seek to help the struggling Basts, wishing at the same time to rid the Wilcoxes of some of their deep-seated social and economic prejudices.
+
+b53
+In Cold Blood
+by Truman Capote
+published: January 1966
+a non-fiction novel[1] by American author Truman Capote, first published in 1966; it details the 1959 murders of four members of the Herbert Clutter family in the small farming community of Holcomb, Kansas.
+
+When Capote learned of the quadruple murder, before the killers were captured, he decided to travel to Kansas and write about the crime. He was accompanied by his childhood friend and fellow author Harper Lee, and together they interviewed local residents and investigators assigned to the case and took thousands of pages of notes. The killers, Richard "Dick" Hickock and Perry Smith, were arrested six weeks after the murders and later executed by the state of Kansas, and Capote ultimately spent six years working on the book.
+
+b54
+Franny and Zooey
+by J.D. Salinger
+published: 1961
+a book by American author J. D. Salinger which comprises his short story "Franny" and novella Zooey /ˈzoʊ.iː/.[1] The two works were published together as a book in 1961, having originally appeared in The New Yorker in 1955 and 1957 respectively. Franny and Zooey, both in their twenties, are the two youngest members of the Glass family, which was a frequent focus of Salinger's writings.
+
+"Franny" takes place in an unnamed college town during the weekend of "the Yale game" and tells of an undergraduate who is becoming disenchanted with the selfishness and inauthenticity she perceives all around her.
+
+Zooey is a somewhat emotionally toughened genius, who at the age of twelve had "a vocabulary on an exact par with Mary Baker Eddy's". While Franny, his younger sister, suffers a spiritual and existential breakdown in their parents' Manhattan living room—leaving Bessie, their mother, deeply concerned—Zooey comes to Franny's aid, offering what he thinks is brotherly love, understanding, and words of sage advice.
+
+b55
+The Satanic Verses
+by Salman Rushdie
+published: September 1988
+is Salman Rushdie's fourth novel, first published in 1988 and inspired in part by the life of Muhammad. As with his previous books, Rushdie used magical realism and relied on contemporary events and people to create his characters. The title refers to the satanic verses, a group of Quranic verses that allow intercessory prayers to be made to three Pagan Meccan goddesses: Allāt, Uzza, and Manāt.[1] The part of the story that deals with the "satanic verses" was based on accounts from the historians al-Waqidi and al-Tabari.
+
+b56
+Jazz
+by Toni Morrison
+published: 1992
+The majority of the narrative takes place in Harlem during the 1920s; however, as the pasts of the various characters are explored, the narrative extends back to the mid-19th century American South.
+
+The novel forms the second part of Morrison's Dantesque trilogy on African American history, beginning with Beloved and ending with Paradise.
+
+b57
+Sophie’s Choice
+by William Styron
+published: 1979
+a 1979 novel by American author William Styron. It concerns the relationships between three people sharing a boarding house in Brooklyn: Stingo, a young aspiring writer from the South who befriends the Jewish Nathan Landau and his lover Sophie, a Polish, Catholic survivor of the German Nazi concentration camps. The plot ultimately centers on a tragic decision that Sophie was forced to make on her entry, with her children, into Auschwitz.
+
+Sophie's Choice won the US National Book Award for Fiction in 1980. 
+
+b58
+Absalom, Absalom!
+by William Faulkner
+published: 1936
+Taking place before, during, and after the Civil War, it is a story about three families of the American South, with a focus on the life of Thomas Sutpen
+
+b59
+A Passage to India
+by E.M. Forster
+published: 1924
+a novel by English author E. M. Forster set against the backdrop of the British Raj and the Indian independence movement in the 1920s.
+
+b60
+Ethan Frome
+by Edith Wharton
+published: 1911
+Ethan Frome is set in the fictional New England town of Starkfield, where a visiting engineer tells the story of his encounter with Ethan Frome, a man with a history of thwarted dreams and desires. The accumulated longing of Frome ends in an ironic turn of events. His initial impressions are based on his observations of Frome going about his mundane tasks in Starkfield, and something about him catches the eye and curiosity of the visitor, but no one in the town seems interested in revealing many details about the man or his history – or perhaps they are not able to. The narrator ultimately finds himself in the position of staying overnight at Frome's house in order to escape a winter storm, and from there he observes Frome and his private circumstances, which he shares and which triggers other people in town to be more forthcoming with their own knowledge and impressions.
+
+b61
+A Good Man Is Hard to Find
+by Flannery O’Connor
+published: August 23, 1977
+O'Conner firmly laid claim to her place as one of the most original and provocative writers of her generation. Steeped in a Southern Gothic tradition that would become synonymous with her name, these stories show O'Connor's unique, grotesque view of life--infused with religious symbolism, haunted by apocalyptic possibility, sustained by the tragic comedy of human behavior, confronted by the necessity of salvation.
+
+b62
+Tender Is the Night
+by F. Scott Fitzgerald
+published: January 1934
+It was his fourth and final completed novel, and was first published in Scribner's Magazine between January and April 1934 in four issues. 
+Fitzgerald considered Tender Is the Night to be his greatest work.
+Dick and Nicole Diver are a glamorous couple who take a villa in the South of France and surround themselves with a circle of friends, mainly Americans. Also staying at the resort are Rosemary Hoyt, a young actress, and her mother. Rosemary is sucked into the circle of the Divers; she becomes infatuated with Dick and is also adopted as a close friend by Nicole. Dick toys with, and later acts upon, the idea of an affair with Rosemary.
+
+b63
+Orlando
+by Virginia Woolf
+published: October 11, 1928
+A high-spirited romp inspired by the tumultuous family history of Woolf's close friend, the aristocratic poet and novelist Vita Sackville-West, it is arguably one of Woolf's most popular and accessible novels: a history of English literature in satiric form. The book describes the adventures of a poet who changes sex from man to woman and lives for centuries, meeting the key figures of English literary history. Considered a feminist classic, the book has been written about extensively by scholars of women's writing and gender and transgender studies.
+
+b64
+Sons and Lovers
+by D.H. Lawrence
+published: 1913
+This semi-autobiographical novel explores the emotional conflicts through the protagonist, Paul Morel, and the suffocating relationships with a demanding mother and two very different lovers. It is a pre-Freudian exploration of love and possessiveness.
+
+b65
+Bonfire of the Vanities
+by Tom Wolfe
+published: October 1987
+The story is a drama about ambition, racism, social class, politics, and greed in 1980s New York City and centers on three main characters: WASP bond trader Sherman McCoy, Jewish assistant district attorney Larry Kramer, and British expatriate journalist Peter Fallow.
+
+b66
+Cat’s Cradle
+by Kurt Vonnegut
+published: 1963
+It explores issues of science, technology, and religion, satirizing the arms race and many other targets along the way. After turning down his original thesis in 1947, the University of Chicago awarded Vonnegut his master's degree in anthropology in 1971 for Cat's Cradle.[1][2]
+
+The title of the book derives from the string game "cat's cradle." Early in the book, the character Felix Hoenikker (a fictional co-inventor of the atom bomb) was playing cat's cradle when the bomb was dropped, and the game is later referred to by his son, Newton Hoenikker.
+
+b67
+A Separate Peace
+by John Knowles
+published: 1959
+Set against the backdrop of World War II, A Separate Peace explores morality, patriotism and loss of innocence through its narrator, Gene.
+
+b68
+Light in August
+by William Faulkner
+published: 1932
+Light in August, a novel that contrasts stark tragedy with hopeful perseverance in the face of mortality, features some of Faulkner’s most memorable characters: guileless, dauntless Lena Grove, in search of the father of her unborn child; Reverend Gail Hightower, a lonely outcast haunted by visions of Confederate glory; and Joe Christmas, a desperate, enigmatic drifter consumed by his mixed ancestry.
+
+b69
+The Wings of the Dove
+by Henry James
+published: 1902
+This novel tells the story of Milly Theale, an American heiress stricken with a serious disease, and her effect on the people around her. Some of these people befriend Milly with honorable motives, while others are more self-interested.
+
+b70
+Things Fall Apart
+by Chinua Achebe
+published: 1958
+The novel follows the life of Okonkwo, an Igbo ("Ibo" in the novel) leader and local wrestling champion in the fictional Nigerian village of Umuofia. The work is split into three parts, the first describing his family and personal history, the customs and society of the Igbo, and the second and third sections introduce the influence of British colonialism and Christian missionaries on the Igbo community.
+
+b71
+Rebecca
+by Daphne du Maurier
+published: 1938
+Last night I dreamt I went to Manderley again . . . The novel begins in Monte Carlo, where our heroine is swept off her feet by the dashing widower Maxim de Winter and his sudden proposal of marriage. Orphaned and working as a lady's maid, she can barely believe her luck. It is only when they arrive at his massive country estate that she realizes how large a shadow his late wife will cast over their lives--presenting her with a lingering evil that threatens to destroy their marriage from beyond the grave.
+
+b72
+A Hitchhiker’s Guide to the Galaxy
+by Douglas Adams
+published: 1985
+The broad narrative follows the misadventures of the last surviving man, Arthur Dent, following the demolition of the planet Earth by a Vogon constructor fleet to make way for a hyperspace bypass. Dent is rescued from Earth's destruction by Ford Prefect, a human-like alien writer for the eccentric, electronic travel guide, The Hitchhiker's Guide to the Galaxy, by hitchhiking onto a passing spacecraft. Following his rescue, Dent explores the galaxy with Prefect and encounters Trillian, another human that had been taken from Earth prior to its destruction by the President of the Galaxy, the two-headed Zaphod Beeblebrox, and the depressed Marvin, the Paranoid Android.
+
+b73
+Naked Lunch
+by William S. Burroughs
+published: 1959
+The book is structured as a series of loosely connected vignettes. Burroughs stated that the chapters are intended to be read in any order.[1] The reader follows the narration of junkie William Lee, who takes on various aliases, from the US to Mexico, eventually to Tangier and the dreamlike Interzone.
+
+The vignettes (which Burroughs called "routines") are drawn from Burroughs' own experience in these places, and his addiction to drugs (heroin, morphine, and while in Tangier, majoun (a strong marijuana confection) as well as a German opioid, brand name Eukodol, of which he wrote frequently).
+
+b74
+Brideshead Revisited
+by Evelyn Waugh
+published: 1945
+In 1923, protagonist and narrator Charles Ryder, an undergraduate studying history at a college very like Hertford College, Oxford, is befriended by Lord Sebastian Flyte, the younger son of the aristocratic Lord Marchmain and an undergraduate at Christ Church. Sebastian introduces Charles to his eccentric and aesthetic friends, including the haughty and homosexual Anthony Blanche. Sebastian also takes Charles to his family's palatial mansion, Brideshead Castle, in Wiltshire[6] where Charles later meets the rest of Sebastian's family, including his sister Julia.
+
+b75
+Women in Love
+by D.H. Lawrence
+published: 1920
+follows the continuing loves and lives of the Brangwen sisters, Gudrun and Ursula. Gudrun Brangwen, an artist, pursues a destructive relationship with Gerald Crich, an industrialist. Lawrence contrasts this pair with the love that develops between Ursula Brangwen and Rupert Birkin, an alienated intellectual who articulates many opinions associated with the author. The emotional relationships thus established are given further depth and tension by an intense psychological and physical attraction between Gerald and Rupert. The novel ranges over the whole of British society before the time of the First World War and eventually concludes in the snows of the Tyrolean Alps. Ursula's character draws on Lawrence's wife Frieda and Gudrun's on Katherine Mansfield, while Rupert Birkin's has elements of Lawrence and Gerald Crich's of Mansfield's husband, John Middleton Murry.
+
+b76
+Look Homeward, Angel
+by Thomas Wolfe
+published: 1929
+The book is divided into three parts, with a total of forty chapters. The first 90 pages of the book deal with an early biography of Gant's parents, very closely based on the actual history of Wolfe's own mother and father. It begins with his father Oliver's decision to become a stone cutter after seeing a statue of a stone angel.
+
+b77
+In Our Time
+by Ernest Hemingway
+published: 1925
+ Ernest Hemingway's first collection of short stories
+ The stories' themes – of alienation, loss, grief, separation – continue the work Hemingway began with the vignettes, which include descriptions of acts of war, bullfighting and current events. The collection is known for its spare language and oblique depiction of emotion, through a style known as Hemingway's "theory of omission" (Iceberg Theory).
+ 
+b78
+The Autobiography of Alice B. Tokias
+by Gertrude Stein
+published: 1933
+written in the guise of an autobiography authored by Alice B. Toklas, her life partner. In 1998, Modern Library ranked it as one of the 20 greatest English-language nonfiction books of the 20th century.[1]
+
+b79
+The Maltese Falcon
+by Dashiell Hammett
+published: 1930
+Private detectives Sam Spade and Miles Archer are hired by an attractive young woman, "Miss Wonderly", to follow a man, Floyd Thursby, who has allegedly run off with her younger sister, Corinne. Spade and Archer take the assignment because the money is good, but neither man believes her story, and Spade implies that she looks like trouble.
+
+b80
+The Naked and the Dead
+by Norman Mailer
+published: 1948
+novel by Norman Mailer. It was partly based on Norman Mailer's his experiences[2] with the 112th Cavalry Regiment during the Philippines Campaign in World War II.
+The novel is divided into four Parts: Wave, Argil and Mold, Plant and Phantom, and Wake. Within these parts are Chorus sections, consisting of play-like dialogue between characters, as well as Time Machine sections, which give brief histories and flashbacks of individual characters’ lives.
+
+b81
+Wide Sargasso Sea
+by Jean Rhys
+published: October 1966
+The novel opens a short while after the Slavery Abolition Act 1833 ended slavery in the British Empire on 1 August 1834.[1] The protagonist Antoinette relates the story of her life from childhood to her arranged marriage to an unnamed Englishman (implied as Mr Rochester from Jane Eyre). As their marriage progresses, Antoinette, whom he renames "Bertha" and confines to a locked room, descends into madness, in part from despair at being torn from her island home in the Caribbean and subjected to an alien culture and climate.
+
+b82
+White Noise
+by Don DeLillo
+published: January 21, 1985
+It won the U.S. National Book Award for Fiction.[1]
+
+White Noise is an example of postmodern literature. It is widely considered DeLillo's "breakout" work and brought him to the attention of a much larger audience.
+Set at a bucolic Midwestern college known only as The-College-on-the-Hill, White Noise follows a year in the life of Jack Gladney, a professor who has made his name by pioneering the field of Hitler studies (though he hasn't taken German lessons until this year). He has been married five times to four women and rears a brood of children and stepchildren (Heinrich, Denise, Steffie, Wilder) with his current wife, Babette. Jack and Babette are both extremely afraid of death; they frequently wonder which of them will be the first to die. The first part of White Noise, called "Waves and Radiation," is a chronicle of contemporary family life combined with academic satire.
+
+b83
+O Pioneers!
+by Willa Cather
+published: 1913
+O Pioneers! tells the story of the Bergsons, a family of Swedish-American immigrants in the farm country near the fictional (?) town of Hanover, Nebraska, at the turn of the 20th century. The main character, Alexandra Bergson, inherits the family farmland when her father dies and devotes her life to making the farm a viable enterprise at a time when many other immigrant families are giving up and leaving the prairie. The novel is also concerned with two romantic relationships, one between Alexandra and family friend Carl Linstrum and the other between Alexandra's brother Emil and the married Marie Shabata.
+
+b84
+Tropic of Cancer
+by Henry Miller
+published: 1934
+a novel by Henry Miller that has been described as "notorious for its candid sexuality" and as responsible for the "free speech that we now take for granted in literature".
+Set in France (primarily Paris) during the late 1920s and early 1930s, Tropic of Cancer centers on Miller's life as a struggling writer. Late in the novel, Miller explains his artistic approach to writing the book itself, stating:
+
+Up to the present, my idea of collaborating with myself has been to get off the gold standard of literature. My idea briefly has been to present a resurrection of the emotions, to depict the conduct of a human being in the stratosphere of ideas, that is, in the grip of delirium.[9]:243
+
+Combining autobiography and fiction, some chapters follow a narrative of some kind and refer to Miller's actual friends, colleagues, and workplaces; others are written as stream-of-consciousness reflections that are occasionally epiphanic. The novel is written in the first person, as are many of Miller's other novels, and does not have a linear organization, but rather fluctuates frequently between the past and present.
+
+b85
+The War of the Worlds
+by H.G. Wells
+published: 1898
+The novel is the first-person narrative of both an unnamed protagonist in Surrey and of his younger brother in London as southern England is invaded by Martians. The novel is one of the most commented-on works in the science fiction canon.
+The plot has been related to invasion literature of the time. The novel has been variously interpreted as a commentary on evolutionary theory, British imperialism, and generally Victorian superstitions, fears and prejudices. At the time of publication, it was classified as a scientific romance, like Wells's earlier novel The Time Machine. The War of the Worlds has been both popular (having never been out of print) and influential, spawning half a dozen feature films, radio dramas, a record album, various comic book adaptations, a television series, and sequels or parallel stories by other authors. It has even influenced the work of scientists, notably Robert Goddard, who (inspired by the book) invented both the liquid fueled rocket and multistage rocket, which resulted in the Apollo 11 moon landing 71 years later.
+
+b86
+Lord Jim
+by Joseph Conrad
+published: 1900
+Jim (his surname is never disclosed), a young British seaman, becomes first mate on the Patna, a ship full of pilgrims travelling to Mecca for the hajj. When the ship starts rapidly taking on water and disaster seems imminent, Jim joins his captain and other crew members in abandoning the ship and its passengers. A few days later, they are picked up by a French ship. However, the Patna and its passengers are later also saved, and the reprehensible actions of the crew are exposed. The other participants evade the judicial court of inquiry, leaving Jim to face the court alone. The court strips him of his navigation command certificate for his dereliction of duty. Jim is angry with himself, both for his moment of weakness, and for missing an opportunity to be a 'hero'.
+
+b87
+The Bostonians
+by Henry James
+published: February 16, 1886
+This bittersweet tragicomedy centers on an odd triangle of characters: Basil Ransom, a political conservative from Mississippi; Olive Chancellor, Ransom's cousin and a Boston feminist; and Verena Tarrant, a pretty, young protégée of Olive's in the feminist movement. The storyline concerns the struggle between Ransom and Olive for Verena's allegiance and affection, though the novel also includes a wide panorama of political activists, newspaper people, and quirky eccentrics.
+
+b88
+An American Tragedy
+by Theodore Dreiser
+published: December 17, 1925
+Ambitious but ill-educated, naïve, and immature Clyde Griffiths is raised by poor and devoutly religious parents to help in their street missionary work. As a young adult, Clyde must, to help support his family, take menial jobs as a soda jerk, then a bellhop at a prestigious Kansas City hotel. There, his more sophisticated colleagues introduce him to bouts of social drinking and sex with some of the hotel's female guests and with prostitutes.
+
+b89
+Death Comes for the Archbishop
+by Willa Cather
+published: 2010
+The narrative is based on two historical figures, Jean-Baptiste Lamy and Joseph Projectus Machebeuf and rather than any one singular plot, is the stylized re-telling of their lives serving as Roman Catholic clergy in New Mexico. The narrative has frequent digressions, either in terms of stories related to the pair (including the story of the Our Lady of Guadeloupe and the murder of an oppressive Spanish priest at Acoma Pueblo) or through their recollections. The narrator is in the Third-Person Omniscient style. Cather includes many fictionalized accounts of actual historical figures, including Kit Carson, Manuel Antonio Chaves and Pope Gregory XVI.
+
+b90
+The Wind in the Willows
+by Kenneth Grahame
+published: 1908
+With the arrival of spring and fine weather outside, the good-natured Mole loses patience with spring cleaning. He flees his underground home, emerging to take in the air and ends up at the river, which he has never seen before. Here he meets Rat (a water vole), who at this time of year spends all his days in, on and close by the river. Rat takes Mole for a ride in his rowing boat. They get along well and spend many more days boating, with Rat teaching Mole the ways of the river.
+
+b91
+This Side of Paradise
+by F. Scott Fitzgerald
+published: March 26, 1920
+the book examines the lives and morality of post–World War I youth. Its protagonist, Amory Blaine, is an attractive Princeton University student who dabbles in literature. The novel explores the theme of love warped by greed and status seeking.
+in the summer of 1919, after less than a year of courtship, Zelda Sayre broke up with the 22-year-old Fitzgerald. After a summer of heavy drinking, he returned to St. Paul, Minnesota, where his family lived, to complete the novel, hoping that if he became a successful novelist he could win Zelda back. While at Princeton (notably in University Cottage Club's library), Fitzgerald had written an unpublished novel, "The Romantic Egotist", and ultimately 80 pages of the typescript of this earlier work ended up in This Side of Paradise
+
+b92
+Atlas Shrugged
+by Ayn Rand
+published: October 10, 1957
+Atlas Shrugged includes elements of science fiction,[2] mystery, and romance,[3][4][5] and it contains Rand's most extensive statement of Objectivism in any of her works of fiction.
+The book depicts a dystopian United States, wherein many of society's most prominent and successful industrialists abandon their fortunes and even the nation, in response to aggressive new regulations, whereupon most vital industries collapse. The title is a reference to Atlas, a Titan described in the novel as "the giant who holds the world on his shoulders". The significance of this reference appears in a conversation between the characters Francisco d'Anconia and Hank Rearden, in which d'Anconia asks Rearden what advice he would give Atlas upon seeing that "the greater [the titan's] effort, the heavier the world bore down on his shoulders". With Rearden unable to answer, d'Anconia gives his own response: "To shrug".
+
+The theme of Atlas Shrugged, as Rand described it, is "the role of man's mind in existence". The book explores a number of philosophical themes from which Rand would subsequently develop Objectivism.[6][7] In doing so, it expresses the advocacy of reason, individualism, capitalism, and the failures of governmental coercion.
+
+b93
+The French Lieutenant’s Woman
+by John Fowles
+published: 1969
+The novel explores the fraught relationship of gentleman and amateur naturalist Charles Smithson and Sarah Woodruff, the former governess and independent woman with whom he falls in love. The novel builds on Fowles' authority in Victorian literature, both following and critiquing many of the conventions of period novels.[1]
+Set in the mid-nineteenth century, the narrator identifies the novel's protagonist as Sarah Woodruff, the Woman of the title, also known as "Tragedy" and as "The French Lieutenant's Whore". She lives in the coastal town of Lyme Regis as a disgraced woman, supposedly abandoned by a French ship's officer named Varguennes who had returned to France and married. She spends some of her limited free time on The Cobb, a stone jetty where she stares out the sea.
+
+b94
+Babbitt
+by Sinclair Lewis
+published: 1922
+Largely a satire of American culture, society, and behavior, it critiques the vacuity of middle-class American life and its pressure toward conformity. An immediate and controversial bestseller, Babbitt was influential in the decision to award Lewis the Nobel Prize in literature in 1930.[1]
+Lewis has been both criticized and congratulated for his unorthodox writing style in Babbitt. One reviewer said "There is no plot whatever... Babbitt simply grows two years older as the tale unfolds."[15] Lewis presents a chronological series of scenes in the life of his title character. After introducing George F. Babbitt as a middle-aged man, "nimble in the calling of selling houses for more than people could afford to pay," Lewis presents a meticulously detailed description of Babbitt's morning routine.[16] Each item Babbitt encounters is explained, from the high-tech alarm clock, which Babbitt sees as a marker of social status, to the rough camp blanket, a symbol of the freedom and heroism of the West. As he dresses for the day, Babbitt contemplates each article of his "Solid Citizen" uniform, the most important being his Booster's club button, which he wears with pride. The first seven chapters follow Babbitt's life over the course of a single day. Over breakfast Babbitt dotes on his ten-year-old daughter Tinka, tries to dissuade his 22-year-old daughter Verona from her newfound socialist leanings, and encourages his 17-year-old son Ted to try harder in school. At the office he dictates letters and discusses real estate advertising with his employees.
+
+b95
+Kim
+by Rudyard Kipling
+published: October 1901
+it is set after the Second Afghan War which ended in 1881, but before the Third, probably in the period 1893 to 1898.[2] The novel is notable for its detailed portrait of the people, culture, and varied religions of India. "The book presents a vivid picture of India, its teeming populations, religions, and superstitions, and the life of the bazaars and the road."[3]
+Kim (Kimball O'Hara)[6] is the orphaned son of an Irish soldier and a poor Irish mother who have both died in poverty. Living a vagabond existence in India under British rule in the late 19th century, Kim earns his living by begging and running small errands on the streets of Lahore. He occasionally works for Mahbub Ali, a Pashtun horse trader who is one of the native operatives of the British secret service. Kim is so immersed in the local culture, few realise he is a white child, though he carries a packet of documents from his father entrusted to him by an Indian woman who cared for him.
+
+b96
+The Beautiful and the Damned
+by F. Scott Fitzgerald
+published: 1922
+It explores and portrays New York café society and the American Eastern elite during the Jazz Age before and after "the Great War" and in the early 1920s.
+The Beautiful and Damned tells the story of Anthony Patch, a 1910s socialite and presumptive heir to a tycoon's fortune, and his courtship and relationship with his wife Gloria Gilbert. It describes his brief service in the Army during World War I, and the couple's post-war partying life in New York, and his later alcoholism.[1][3] Gloria and Anthony’s love story is much more than just a couple falling in love. Their story deals with the hardships of a relationship, especially when each character has a tendency to be selfish. Joanna Stolarek suggests, Fitzgerald draws on “Zelda, the object of the writer’s literary passion” (Stolarek et al. 53).
+
+b97
+Rabbit, Run
+by John Updike
+published: November 12, 1960
+The novel depicts three months in the life of a 26-year-old former high school basketball player named Harry "Rabbit" Angstrom who is trapped in a loveless marriage and a boring sales job, and his attempts to escape the constraints of his life.
+Harry "Rabbit" Angstrom is 26, has a job selling a kitchen gadget named MagiPeeler, and is married to Janice, a former salesgirl at the store where he worked who is currently pregnant. They have a two-year-old son named Nelson, and live in Mount Judge, a suburb of Brewer, Pennsylvania. He believes that his marriage is corrupt and something is missing from his life: having been a basketball star in high school, Harry finds his middle-class family life unsatisfying. On the spur of the moment, he decides to leave his family and drive south in an attempt to "escape". However, after getting lost, he returns to his home town. Not wanting to return to his family, he instead visits his old basketball coach, Marty Tothero.
+
+b98
+Where Angels Fear to Tread
+by E.M. Forster
+published: 1905
+On a journey to Tuscany with her young friend and traveling companion Caroline Abbott, widowed Lilia Herriton falls in love with an Italian man named Gino, a handsome Italian much younger than herself, and decides to stay. Furious, her dead husband's family send Lilia's brother-in-law Philip to Italy to prevent a misalliance, but he arrives too late. Lilia has already married Gino and becomes pregnant again. She gives birth to a son, but dies in childbirth. Caroline decides to go to Tuscany again to save the child from what she perceives will be a difficult life. Not to be outdone, the Herritons send Philip again to Italy, this time accompanied by his sister Harriet, to save the family's reputation. In the public eye, they make it known that it is both their right and their duty to travel to Italy to obtain custody of the infant so that he can be raised as an Englishman. Secretly, though, they have no regard for the child; only public appearances.
+
+b99
+Main Street
+by Sinclair Lewis
+published: 1920
+Carol Milford is a liberal, free-spirited young woman, reared in Saint Paul, Minnesota, the state capital. She marries Will Kennicott, a doctor, who is a small-town boy at heart.
+
+When they marry, Will convinces her to live in his home-town of Gopher Prairie, Minnesota (a town modeled on Sauk Centre, Minnesota, the author's birthplace). Carol is appalled at the backwardness of Gopher Prairie. But her disdain for the town's physical ugliness and smug conservatism compels her to reform it.
+
+b100
+Midnight’s Children
+by Salman Rushdie
+published: 1981
+deals with India's transition from British colonialism to independence and the partition of British India. It is considered an example of postcolonial literature and magical realism. The story is told by its chief protagonist, Saleem Sinai, and is set in the context of actual historical events as with historical fiction.
+Midnight's Children is a loose allegory for events in India both before and, primarily, after the independence and partition of India. The protagonist and narrator of the story is Saleem Sinai, born at the exact moment when India became an independent country. He was born with telepathic powers, as well as an enormous and constantly dripping nose with an extremely sensitive sense of smell. The novel is divided into three books.
