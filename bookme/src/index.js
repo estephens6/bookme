@@ -391,7 +391,9 @@ Book.prototype.intentHandlers = {
         var speechOutput = "Goodbye";
         response.tell(speechOutput);
     }
+    
 };
+
 
 /**
  * Gets a random new fact from the list and returns to the user.
@@ -402,11 +404,11 @@ function handleNewBookRequest(response) {
     var randomBook = BOOKS[bookIndex];
 
     // Create speech output
-    var speechOutput = "Here's your next book: " + randomBook;
-    var cardTitle = "Your Book";
-    response.tellWithCard(speechOutput, cardTitle, speechOutput);
-    //there might be an error or problem with this code format here:
-    randomBook['response']['outputSpeech'];
+    var speechOutput = "Here's your next book: " + randomBook.response.outputSpeech.text;
+    var cardTitle = "Book Me: " + randomBook.response.card.title;
+    response.tellWithCard(speechOutput, cardTitle, randomBook.response.card.text, randomBook.response.card.image.smallImageUrl);
+    //there might be an error or problem with + this code format here:
+   // randomBook['response']['outputSpeech'];
 }
 
 // Create the handler that responds to the Alexa Request.
@@ -416,3 +418,60 @@ exports.handler = function (event, context) {
     book.execute(event, context);
 };
 
+
+
+//google analytics
+
+// var express = require('express');
+// var request = require('request');
+
+// var app = express();
+
+// var GA_TRACKING_ID = 'UA-YOUR-CODE-HERE';
+
+// function trackEvent(category, action, label, value, callbback) {
+//   var data = {
+//     v: '1', // API Version.
+//     tid: GA_TRACKING_ID, // Tracking ID / Property ID.
+//     // Anonymous Client Identifier. Ideally, this should be a UUID that
+//     // is associated with particular user, device, or browser instance.
+//     cid: '555',
+//     t: 'event', // Event hit type.
+//     ec: category, // Event category.
+//     ea: action, // Event action.
+//     el: label, // Event label.
+//     ev: value, // Event value.
+//   };
+
+//   request.post(
+//     'http://www.google-analytics.com/collect', {
+//       form: data
+//     },
+//     function(err, response) {
+//       if (err) { return callbback(err); }
+//       if (response.statusCode !== 200) {
+//         return callbback(new Error('Tracking failed'));
+//       }
+//       callbback();
+//     }
+//   );
+// }
+
+
+//does the below go below line 376?
+
+//example usage in an intent handler
+// "AMAZON.NoIntent": function (intent, session, response) {
+//     trackEvent(
+//       'Intent',
+//       'AMAZON.NoIntent',
+//       'na',
+//       '100', // Event value must be numeric.
+//       function(err) {
+//         if (err) {
+//             return next(err);
+//         }
+//         var speechOutput = "Okay.";
+//         response.tell(speechOutput);
+//       });
+// }
