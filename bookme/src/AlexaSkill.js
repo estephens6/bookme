@@ -139,12 +139,9 @@ Response.prototype = (function () {
                 outputSpeech: createSpeechObject(options.reprompt)
             };
         }
-        if (options.cardTitle && options.cardContent) {
-            alexaResponse.card = {
-                type: "Simple",
-                title: options.cardTitle,
-                content: options.cardContent
-            };
+        if (options.hasCard) {
+            console.log('card data exists');
+            alexaResponse.card = options.card;
         }
         var returnResult = {
                 version: '1.0',
@@ -153,6 +150,7 @@ Response.prototype = (function () {
         if (options.session && options.session.attributes) {
             returnResult.sessionAttributes = options.session.attributes;
         }
+        console.log(JSON.stringify(returnResult));
         return returnResult;
     };
 
@@ -161,16 +159,16 @@ Response.prototype = (function () {
             this._context.succeed(buildSpeechletResponse({
                 session: this._session,
                 output: speechOutput,
+                hasCard: false,
                 shouldEndSession: true
             }));
         },
-        tellWithCard: function (speechOutput, cardTitle, cardContent, cardImages) {
+        tellWithCard: function (speechOutput, cardObject) {
             this._context.succeed(buildSpeechletResponse({
                 session: this._session,
                 output: speechOutput,
-                cardTitle: cardTitle,
-                cardContent: cardContent,
-                cardImages: cardImages,
+                card: cardObject,
+                hasCard: true,
                 shouldEndSession: true
             }));
         },
@@ -179,16 +177,17 @@ Response.prototype = (function () {
                 session: this._session,
                 output: speechOutput,
                 reprompt: repromptSpeech,
+                hasCard: false,
                 shouldEndSession: false
             }));
         },
-        askWithCard: function (speechOutput, repromptSpeech, cardTitle, cardContent) {
+        askWithCard: function (speechOutput, repromptSpeech, cardObject) {
             this._context.succeed(buildSpeechletResponse({
                 session: this._session,
                 output: speechOutput,
                 reprompt: repromptSpeech,
-                cardTitle: cardTitle,
-                cardContent: cardContent,
+                card: cardObject,
+                hasCard: true,
                 shouldEndSession: false
             }));
         }

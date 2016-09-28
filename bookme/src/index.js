@@ -392,6 +392,7 @@ Book.prototype.intentHandlers = {
         response.tell(speechOutput);
     }
     
+    
 };
 
 
@@ -406,7 +407,8 @@ function handleNewBookRequest(response) {
     // Create speech output
     var speechOutput = "Here's your next book: " + randomBook.response.outputSpeech.text;
     var cardTitle = "Book Me: " + randomBook.response.card.title;
-    response.tellWithCard(speechOutput, cardTitle, randomBook.response.card.text, randomBook.response.card.image.smallImageUrl);
+    console.log(JSON.stringify(randomBook.response.card));
+    response.tellWithCard(speechOutput, randomBook.response.card);
     //there might be an error or problem with + this code format here:
    // randomBook['response']['outputSpeech'];
 }
@@ -427,13 +429,13 @@ exports.handler = function (event, context) {
 
 // var app = express();
 
-// var GA_TRACKING_ID = 'UA-YOUR-CODE-HERE';
+// var GA_TRACKING_ID = 'UA-84484929-1';
 
 // function trackEvent(category, action, label, value, callbback) {
 //   var data = {
 //     v: '1', // API Version.
 //     tid: GA_TRACKING_ID, // Tracking ID / Property ID.
-//     // Anonymous Client Identifier. Ideally, this should be a UUID that
+     // Anonymous Client Identifier. Ideally, this should be a UUID that
 //     // is associated with particular user, device, or browser instance.
 //     cid: '555',
 //     t: 'event', // Event hit type.
@@ -461,17 +463,3 @@ exports.handler = function (event, context) {
 //does the below go below line 376?
 
 //example usage in an intent handler
-// "AMAZON.NoIntent": function (intent, session, response) {
-//     trackEvent(
-//       'Intent',
-//       'AMAZON.NoIntent',
-//       'na',
-//       '100', // Event value must be numeric.
-//       function(err) {
-//         if (err) {
-//             return next(err);
-//         }
-//         var speechOutput = "Okay.";
-//         response.tell(speechOutput);
-//       });
-// }
